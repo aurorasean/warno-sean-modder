@@ -1,4 +1,4 @@
-# A Warno Moder maker
+# A Warno Mod maker
 
 You want to bulk edit the Decks number of units per card, then this is the tool for you
 
